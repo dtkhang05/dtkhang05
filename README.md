@@ -61,9 +61,7 @@ Animated 3D greeting cards in the browser, live at **[heartgift.app](https://hea
 
 <img src="images/stats.svg" width="720" alt="GitHub stats: public repositories, stars, contributions in the last 12 months and the most used languages">
 
-<img src="https://streak-stats.demolab.com?user=dtkhang05&hide_border=true&background=00000000&ring=2f81f7&fire=2f81f7&currStreakLabel=2f81f7" width="560" alt="Contribution streak">
-
-<img src="https://ghchart.rshah.org/2f81f7/dtkhang05" width="720" alt="Contributions over the last year">
+<img src="https://streak-stats.demolab.com?user=dtkhang05&hide_border=true&background=00000000&ring=2f81f7&fire=2f81f7&currStreakLabel=2f81f7&currStreakNum=2f81f7&sideNums=8b949e&sideLabels=8b949e&dates=7d8590&stroke=7d8590" width="560" alt="Contribution streak">
 
 **Achievements:** <a href="https://github.com/dtkhang05?tab=achievements"><img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="64" alt="Pull Shark" title="Pull Shark"></a>
 
