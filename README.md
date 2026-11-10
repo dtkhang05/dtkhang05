@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Khang 👋</h1>
 
 <p align="center">
+  <img src="https://i.pinimg.com/originals/c3/e1/e4/c3e1e47113a4bea928309e341b245dac.gif" alt="Animated banner" width="560"/>
+</p>
+
+<p align="center">
   <b>Aspiring Data Engineer / Data Analyst</b> · IT student at HUIT · Ho Chi Minh City, Vietnam<br>
   Looking for a <b>data internship</b>. I like pipelines that run on their own and numbers that answer a real question.
 </p>
